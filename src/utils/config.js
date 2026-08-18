@@ -366,7 +366,7 @@ export const meta = [
       tabIcon: 'https://cdn.racon.dev/clever.ico', // couldnt find the correct ico so i hosted on my domain
     },
   },
-]; // sorry again i have to re-commit to "verify" my commit
+]; // meow
 
 export const searchConfig = [
   {

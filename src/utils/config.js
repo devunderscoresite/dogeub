@@ -331,6 +331,20 @@ export const meta = [
       tabIcon: '/assets/img/khan.png',
     },
   },
+  {
+    option: 'IXL',
+    value: {
+      tabName: 'IXL | Math, Language Arts, Science, Social Studies, and Spanish',
+      tabIcon: 'https://www.ixl.com/favicon.ico',
+    },
+  },
+  {
+    option: 'Google Docs',
+    value: {
+      tabName: 'Google Docs',
+      tabIcon: 'https://ssl.gstatic.com/docs/documents/images/docs-favicon-2026-v2.ico',
+    },
+  },
 ];
 
 export const searchConfig = [
